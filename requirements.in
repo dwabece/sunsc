@@ -1,0 +1,9 @@
+django==3.0.3
+djangorestframework==3.11.0
+celery==4.4.0
+lxml
+requests
+psycopg2
+
+gunicorn
+gevent
